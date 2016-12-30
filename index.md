@@ -1,6 +1,6 @@
 ## Welcome to rosieilene.com, brought to you by GitHub Pages
 
-Everyday, [malicealicemartin.com](http://malicealicemartin.com) will be hiding in a new place throughout this site. Once you find it, click to view more uncensored material. Although NSFW, you will find lots of artistic expression that will keep you here for hours. Are you ready to step into a bizarre world of animated imagination?
+Everyday, my twin site [malicealicemartin.com](http://malicealicemartin.com) will be hiding in a new place throughout this site. Once you find it, click to view more uncensored material. Although NSFW, you will find lots of artistic expression that will keep you here for hours. Are you ready to step into a bizarre world of animated imagination?
 You can use the [editor on GitHub](https://github.com/malicemartin13/initial-reaction.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
