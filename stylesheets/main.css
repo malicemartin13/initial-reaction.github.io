@@ -3,7 +3,7 @@ body {
 }
 
 p {
-  font: sans-serif;
+  font-family: "arial", sans-serif;
 }
 
 a {
