@@ -2,6 +2,10 @@ body {
   background-color:thistle;
 }
 
+p{
+  font: sans-serif;
+}
+
 a {
 color:magenta;
 }
