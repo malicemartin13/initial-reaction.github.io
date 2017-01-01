@@ -23,10 +23,10 @@ p {
 }
 
 a {
-color:magenta;
+color:darkviolet;
 font-family: "verdana", sans-serif;
 }
 
 a:hover {
-    color:darkviolet;
+    color:magenta;
     )
