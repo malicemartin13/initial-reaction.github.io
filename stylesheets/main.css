@@ -22,6 +22,7 @@ h1 {
 
 .intro {
   position: fixed;
+  top: 80px;
 }
 h2 {
   font-family: "verdana", sans-serif;
