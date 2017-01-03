@@ -12,6 +12,7 @@ h1 {
   background-image:url("https://s3.amazonaws.com/aws-website-rosieilenecom-820ui/images/IMG_20170102_163643.jpg");
   background-repeat:no-repeat;
   background-size:cover;
+  background-position:center;
   overflow:hidden;
 }
 
