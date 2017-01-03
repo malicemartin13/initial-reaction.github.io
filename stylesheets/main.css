@@ -8,13 +8,15 @@ h1 {
 }
 
 .MyDiv {
-  text-align: center;
+  text-align:center;
   background-image:url("https://s3.amazonaws.com/aws-website-rosieilenecom-820ui/images/IMG_20170102_163643.jpg");
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
   background-color:dodgerblue;
+  background-origin:content-box;
   overflow:hidden;
+  padding-top:20px;
   /*height:400px;
   width:300px;
   margin:center;*/
