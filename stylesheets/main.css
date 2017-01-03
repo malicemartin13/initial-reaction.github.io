@@ -22,7 +22,7 @@ h1 {
 
 .intro {
   position: fixed;
-  top: 125px;
+  margin: 120px auto;
 }
 
 .stats {
