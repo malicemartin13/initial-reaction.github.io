@@ -9,7 +9,7 @@ h1 {
 
 .MyDiv {
   text-align:center;
-  background-image:url("https://s3.amazonaws.com/aws-website-rosieilenecom-820ui/images/IMG_20170102_163643.jpg");
+  background-image:url("https://s3.amazonaws.com/aws-website-rosieilenecom-820ui/images/IMG_20170102_163643.jpg"  margin="0.5cm 0cm 0cm 0cm");
   background-repeat:no-repeat;
   /*background-size:cover;*/
   background-position:center;
@@ -19,7 +19,7 @@ h1 {
   padding:70px;
   /*height:400px;
   width:300px;*/
-  margin: 0.75cm 0cm 0cm 0cm;
+  margin: 1cm 0cm 0cm 0cm;
   
 }
 
