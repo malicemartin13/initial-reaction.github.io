@@ -19,6 +19,10 @@ h1 {
   position: fixed;
   z-index: 1000;
 }
+
+.intro {
+  position: fixed;
+}
 h2 {
   font-family: "verdana", sans-serif;
 }
