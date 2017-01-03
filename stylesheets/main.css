@@ -1,5 +1,5 @@
 body {
-  background-color:thistle;
+  background-color:skyblue;
 }
 
 h1 {
@@ -50,10 +50,10 @@ p {
 }
 
 a {
-color:darkviolet;
+color:royalblue;
 font-family: "verdana", sans-serif;
 }
 
 a:hover {
-    color:magenta;
+    color:cyan;
     )
