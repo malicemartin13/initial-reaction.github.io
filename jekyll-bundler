@@ -1,0 +1,4 @@
+ $ gem install jekyll bundler
+~ $ jekyll new rosieilene.com
+~ $ cd rosieilene.com
+~/rosieilene.com $ bundle exec jekyll serve
