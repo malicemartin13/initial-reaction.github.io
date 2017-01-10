@@ -39,6 +39,10 @@ h1 {
 .end{
 }
 
+#navigation{
+	text-align:center;
+}
+
 h2 {
   font-family: "verdana", sans-serif;
 }
