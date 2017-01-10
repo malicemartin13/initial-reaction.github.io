@@ -16,11 +16,27 @@ h1 {
   background-color:dodgerblue;
   background-origin:content-box;
   overflow:hidden;
+  padding:250px;
+  /*height:2400px;
+  width:3000px;*/
+  margin: 0.5cm 0cm 0cm 0cm;
+  
+}
+
+.MyDivOthers {
+  text-align:center;
+  background-image:url("https://s3.amazonaws.com/aws-website-rosieilenecom-820ui/images/IMG_20170102_163643.jpg");
+  background-repeat:no-repeat;
+  /*background-size:cover;*/
+  background-position:center;
+  background-color:dodgerblue;
+  background-origin:content-box;
+  overflow:hidden;
   padding:70px;
   /*height:400px;
   width:300px;*/
-  margin: 1cm 0cm 0cm 0cm;
-  
+  margin: 0.5cm 0cm 0cm 0cm;bo
+ 
 }
 
 .mydiv2 {
@@ -66,4 +82,8 @@ font-family: "verdana", sans-serif;
 
 a:hover {
     color:aqua;
-    )
+}
+
+.contact {
+	text-align:center;
+}
