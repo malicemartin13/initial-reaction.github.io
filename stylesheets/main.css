@@ -35,13 +35,18 @@ h1 {
   padding:70px;
   /*height:400px;
   width:300px;*/
-  margin: 0.5cm 0cm 0cm 0cm;bo
+  margin: 0.5cm 0cm 0cm 0cm;
  
 }
 
 .mydiv2 {
   text-align: center;
 }
+
+ul li{
+font-family:"verdana", sans-serif;
+}
+  
   
 .intro {
 }
