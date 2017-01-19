@@ -38,15 +38,40 @@ h1 {
   margin: 0.5cm 0cm 0cm 0cm;
  
 }
+	
+.titleImage {
+	background-repeat:center;
+	background-origin:content-box;
+	overflow:hidden;
+	padding: 3px;
+	height: 200px;
+	width: 350px;
+	
+}
+
+.titleImage2{
+	background-image:url("https://s3.amazonaws.com/aws-website-rosieilenecom-820ui/images/background-pic.jpg");
+	background-repeat:center;
+	background-origin:content-box;
+	overflow:hidden;
+	padding: 3px;
+	height: 200px;
+	width: 350px;
+	
+}
 
 .mydiv2 {
   text-align: center;
 }
 
+.blogEntry {
+	font-family:"verdana", sans-serif;
+}
+	
+
 ul li{
 font-family:"verdana", sans-serif;
 }
-  
   
 .intro {
 }
@@ -83,6 +108,10 @@ p {
 a {
 color:royalblue;
 font-family: "verdana", sans-serif;
+}
+
+a:link {
+	text-decoration:none;
 }
 
 a:hover {
