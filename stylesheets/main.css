@@ -38,25 +38,9 @@ h1 {
   margin: 0.5cm 0cm 0cm 0cm;
  
 }
-	
-.titleImage {
-	background-repeat:center;
-	background-origin:content-box;
-	overflow:hidden;
-	padding: 3px;
-	height: 200px;
-	width: 350px;
-	
-}
 
-.titleImage2{
-	background-repeat:center;
-	background-origin:content-box;
-	overflow:hidden;
-	padding: 3px;
-	height: 200px;
-	width: 350px;
-	
+#footer{
+	padding: 5px 75px 15px 75px;
 }
 
 .mydiv2 {
@@ -65,20 +49,39 @@ h1 {
 
 .blogEntry {
 	font-family:"verdana", sans-serif;
+	padding: 5px 75px 0px 75px;
 }
-	
+
+.footerblog {
+	padding:0px 75px 15px 75px;
+}
 
 ul li{
 font-family:"verdana", sans-serif;
 }
-  
-.intro {
-}
 
+.line{
+	padding: 5px 75px;
+}
 .stats {
+	padding: 25px 100px;
+	text-align: left;
 }
 
 .question {
+}
+
+.about{
+	padding: 75px 75px 15px 75px;
+	text-align:left;
+}
+
+.intro {
+	padding: 5px 75px;
+}
+
+.footer2{
+	padding: 5px 75px;
 }
 
 .end{
@@ -119,4 +122,5 @@ a:hover {
 
 .contact {
 	text-align:center;
+	padding: 10px 75px 15px 75px;
 }
